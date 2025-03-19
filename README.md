@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&duration=3000&lines=Hi+there+👋;I'm+Murilo,+really+into+data+science;+I+spend+time+every+day+studying+to+turn+ideas+into+real+impact+using+technology+and+data+science)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&duration=3000&pause=2000&lines=Hi+there+👋;I'm+Murilo,+really+into+data+science;+I+spend+time+every+day+studying+to+turn+ideas+into+real+impact+using+technology+and+data+science)](https://git.io/typing-svg)
 
 
 📚 Currently learning data science at EBAC.
