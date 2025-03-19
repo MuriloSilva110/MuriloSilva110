@@ -1,5 +1,5 @@
 ## Hi there 👋
-No momento, estou aprendendo 
+I'm Murilo, really into data science and always looking to learn something new. I spend time every day studying, hoping to turn ideas into real impact using technology and data science."
 <!--
 **MuriloSilva110/MuriloSilva110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
