@@ -27,7 +27,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas na Unisa**, com foco n
 
 ## 📌 Projetos em Destaque
 
-### 📦 [Gerenciador de Estoque Full-Stack](https://github.com/MuriloSilva110/projeto-estoque-web)
+### 📦 [Gerenciador de Estoque Full-Stack](https://github.com/MuriloSilva110/projeto_estoque_web)
 Sistema web para controle de inventário com autenticação segura (Bcrypt), CRUD completo e deploy em nuvem.
 > **Techs:** Python, Flask, SQLAlchemy, PostgreSQL, Bootstrap.
 
