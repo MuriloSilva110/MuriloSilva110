@@ -42,8 +42,11 @@ Suíte de testes automatizados para validar fluxos críticos do sistema de estoq
 
 ---
 
-## 📈 Estatísticas
+## 📈 Estatísticas do GitHub
+
 ![Estatísticas do Murilo](https://github-readme-stats.vercel.app/api?username=MuriloSilva110&show_icons=true&theme=radical)
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloSilva110&layout=compact&theme=radical&hide_langs=html,css)
 
 ## 📫 Vamos nos conectar?
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murilo-silva-dev/)
